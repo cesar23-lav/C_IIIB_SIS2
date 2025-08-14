@@ -1,0 +1,9 @@
+
+
+git init: Inicializa un repositorio Git en la carpeta actual.
+git status: Muestra el estado de los archivos (modificados, sin agregar, etc.).
+git add <archivo>: Agrega archivos al área de preparación para el commit.
+git commit -m \"mensaje\": Crea un commit con los cambios agregados.
+git push: Sube los commits locales al repositorio remoto en GitHub.
+git branch -M main: Cambia el nombre de la rama actual a 'main'.
+git remote add origin <URL>: Vincula el repositorio local con el remoto de GitHub." >
