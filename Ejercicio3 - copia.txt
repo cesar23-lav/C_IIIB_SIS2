@@ -1,0 +1,6 @@
+Frontend: Es la parte de la aplicación que ve el usuario y con la que interactúa (interfaz de usuario).
+Backend: Es la parte que maneja la lógica, la base de datos y la comunicación entre el frontend y otros servicios.
+API: Es la interfaz que permite que el frontend y otras aplicaciones se comuniquen con el backend.
+
+Relación: El frontend envía solicitudes a través de la API, el backend procesa esas solicitudes y devuelve los datos necesarios al frontend.
+
